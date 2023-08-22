@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"scurtu.inventoryapplication"}];updateSearchResults();
